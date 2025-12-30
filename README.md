@@ -1,16 +1,41 @@
 ## Hi there 👋
+#Hi, I’m Khandeshwar Suryavanshi 👋
 
-<!--
-**khandeshwar51/khandeshwar51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+I am an engineering student interested in software development and problem-solving.  
+I enjoy learning new technologies and building logical solutions through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technical Skills
+
+- C++, C, Python  
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (Basics)  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+
+📚 Currently Learning
+
+- Advanced C++  
+- DSA  
+- Real-world project development  
+
+
+
+🎯 Career Objective
+
+To become a skilled software developer and contribute to impactful software solutions.
+
+
+
+📌 GitHub Goals
+
+- Upload academic and personal projects  
+- Improve coding skills consistently  
+- Maintain clean and structured repositories  
+
+
+📫 Connect With Me
+
+- GitHub: https://github.com/khandeshwar51
+
