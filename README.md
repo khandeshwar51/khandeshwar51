@@ -18,7 +18,7 @@
     <a href="https://khandeshwarportfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://www.linkedin.com/in/" target="_blank">
+    <a href="https://www.linkedin.com/in/khandeshwar-suryavanshi-10612623b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:khandeshwarsuryavanshi@gmail.com">
@@ -93,12 +93,12 @@ location: Maharashtra, India
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=khandeshwar51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=khandeshwar51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=khandeshwar51&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 12px;">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandeshwar51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=khandeshwar51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
