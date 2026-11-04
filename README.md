@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Khandeshwar;Full-Stack+Developer+%26+CS+Student;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+React;Building+Innovative+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Khandeshwar;Full-Stack+Developer+%26+CS+Student;Open+Source+Contributor;AI+Software+%26+System+Development;Building+Innovative+Software+Solutions" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -17,6 +17,9 @@
   <p align="center">
     <a href="https://khandeshwarportfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:khandeshwarsuryavanshi@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
