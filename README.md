@@ -29,6 +29,12 @@
     </a>
   </p>
 
+  <!-- Profile Views & Followers Badges -->
+  <p align="center">
+    <img src="https://hits.sh/github.com/khandeshwar51.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/khandeshwar51?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS" alt="Followers" />
+  </p>
+
 </div>
 
 ---
