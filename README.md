@@ -154,7 +154,7 @@ location: Maharashtra, India
 
 ---
 
-### 💼 Production & Client Work (Co-Authored with [@pratik1258](https://github.com/pratik1258))
+### 💼 Production & Client Work
 
 | Client Project | Focus & Scope | Deliverables & Quantifiable Impact | Stack |
 | :--- | :--- | :--- | :---: |
@@ -164,6 +164,10 @@ location: Maharashtra, India
 | ⚙️ **Yamuna Enterprises** | Oil Machinery Manufacturing Enterprise | Architected industrial equipment catalog, structured product presentation, Search Console indexing, and custom domain routing. | `Catalog Architecture`<br/>`SEO Indexing`<br/>`Performance` |
 | 🌊 **Vaity Aqua Resort** | Resort & Hospitality Platform | Interactive attraction showcase, client enquiry workflows, modern aesthetic styling, and high-performance asset loading. | `Modern UI/UX`<br/>`Asset Optimization`<br/>`Enquiry Funnel` |
 | 📄 **VidScript Web** | AI Video-to-Document Platform | Architected full-stack pipeline for video audio ingestion, verbatim transcript generation, executive AI summaries, and multi-format export (PDF, DOCX, Excel). | `Python`<br/>`GenAI / NLP`<br/>`Document Pipelines` |
+
+<p align="center">
+  <sub>💡 <i>Co-Authored with <a href="https://github.com/pratik1258">@pratik1258</a></i></sub>
+</p>
 
 ---
 
