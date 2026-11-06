@@ -100,15 +100,15 @@ location: Maharashtra, India
 
 <div align="center">
 
-<img src="https://activity-graph.vercel.app/graph?username=khandeshwar51&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6&v=2" alt="Activity Graph" width="100%" />
+<img src="https://activity-graph.vercel.app/graph?username=khandeshwar51&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=39D353&line=39D353&point=ffffff&area=true&area_color=10B981&v=3" alt="Activity Graph" width="100%" />
 
 <br/>
 
 <!-- Contribution Snake eating the grid -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khandeshwar51/khandeshwar51/output/github-contribution-grid-snake-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khandeshwar51/khandeshwar51/output/github-contribution-grid-snake.svg?v=2">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khandeshwar51/khandeshwar51/output/github-contribution-grid-snake.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khandeshwar51/khandeshwar51/output/github-contribution-grid-snake-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khandeshwar51/khandeshwar51/output/github-contribution-grid-snake.svg?v=3">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khandeshwar51/khandeshwar51/output/github-contribution-grid-snake.svg?v=3" width="100%">
 </picture>
 
 </div>
