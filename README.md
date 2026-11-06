@@ -41,6 +41,7 @@
 
 ### 💡 What I Bring to Your Engineering Team
 
+- 🤖 **AI System Design & Application Development**: Practical experience designing and shipping end-to-end AI-powered architectures—from video/audio ingestion and NLP transcription pipelines (**VidScript Web**) to client-side behavioral modeling, dopamine scoring heuristics, and real-time cognitive intervention engines (**ScrollGuard**).
 - ⚡ **Full-Stack & Systems Versatility**: Strong computational foundations in **C++** and **Python**, coupled with high-efficiency frontend architectures using **React**, **TypeScript**, and **Tailwind CSS**.
 - 🛠️ **Real-World Client Experience**: Proven record of co-authoring and shipping production client web applications, industrial catalogs, and booking funnels with clean code and high performance.
 - 📐 **Engineering Discipline**: Strict adherence to Conventional Commits, clean component design, testable modular architectures, and automated CI/CD synchronization.
@@ -54,8 +55,9 @@
 name: Khandeshwar Suryavanshi
 role: Software Developer & Computer Science Student
 education: B.Sc. Computer Science @ Vartak College (University of Mumbai)
-core_stack: [C++, Python, TypeScript, React, SQL, DSA]
-interests: [System Software, Full-Stack Architecture, AI & Automation, Modern UI/UX]
+core_stack: [AI Systems, C++, Python, TypeScript, React, SQL, DSA]
+specializations: [AI System Design, AI Application Development, Full-Stack Architecture]
+interests: [Generative AI Pipelines, High-Performance Software, System Design, Modern UI/UX]
 currently_building: ScrollGuard (AI Wellbeing & Focus Chrome Extension)
 availability: Open for Software Engineering Collaborations & Full-Time / Internship Roles
 location: Maharashtra, India
@@ -66,6 +68,14 @@ location: Maharashtra, India
 ### 🛠️ Core Engineering Competencies
 
 <div align="left">
+
+#### 🤖 AI Systems & Intelligent Applications
+<p>
+  <img src="https://img.shields.io/badge/AI_System_Design-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI System Design" />
+  <img src="https://img.shields.io/badge/AI_App_Development-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white" alt="AI App Development" />
+  <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/NLP_Audio_Pipelines-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLP Audio Pipelines" />
+</p>
 
 #### 💻 Programming Languages
 <p>
