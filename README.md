@@ -67,45 +67,78 @@ location: Maharashtra, India
 
 ### 🛠️ Core Engineering Competencies
 
-<div align="left">
-
-#### 🤖 AI Systems & Intelligent Applications
-<p>
-  <img src="https://img.shields.io/badge/AI_System_Design-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI System Design" />
-  <img src="https://img.shields.io/badge/AI_App_Development-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white" alt="AI App Development" />
-  <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/NLP_Audio_Pipelines-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLP Audio Pipelines" />
-</p>
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-#### 🌐 Web Architecture & UI Engineering
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### ⚙️ Developer Tooling, Automation & CI/CD
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Chrome_Extensions_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome API" />
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,c,postgres,react,tailwind,vite,html,css,git,githubactions,vscode,netlify&perline=15&theme=dark" alt="Tech Stack Icons" />
 </div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🤖 AI Systems & Intelligent Apps</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/AI_System_Design-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI System Design" />
+        <img src="https://img.shields.io/badge/AI_App_Development-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white" alt="AI App Development" />
+        <br/>
+        <img src="https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white" alt="LLM Integration" />
+        <img src="https://img.shields.io/badge/NLP_Pipelines-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLP Audio Pipelines" />
+      </p>
+      <ul>
+        <li><b>Multimodal Pipelines</b>: Audio/video ingestion & structured transcription</li>
+        <li><b>Cognitive Heuristics</b>: Client-side behavioral scoring & intervention</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">💻 Programming & Systems</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      </p>
+      <ul>
+        <li><b>DSA Mastery</b>: Strong algorithmic foundations in C++ & Python</li>
+        <li><b>Systems Thinking</b>: Memory layout, pointer discipline & complexity</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🌐 Web Architecture & UI</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+        <br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+      <ul>
+        <li><b>Modern UI/UX</b>: Component-driven, responsive mobile-first design</li>
+        <li><b>Performance</b>: Sub-second render cycles targeting 95+ Lighthouse</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">⚙️ DevOps, Tooling & Automation</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <br/>
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+        <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome API" />
+      </p>
+      <ul>
+        <li><b>CI/CD Workflows</b>: Automated telemetry & continuous sync actions</li>
+        <li><b>Client Architecture</b>: Resilient Manifest V3 background service workers</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
