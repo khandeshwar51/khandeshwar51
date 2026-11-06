@@ -10,26 +10,26 @@
 
   <p align="center">
     🎓 <b>B.Sc. Computer Science @ Vartak College (University of Mumbai)</b><br/>
-    🚀 Passionate about Full-Stack Development, Problem Solving & Software Engineering
+    🚀 Passionate about High-Performance Software, Full-Stack Architecture & Production Engineering
   </p>
 
-  <!-- Action / Connect Badges -->
+  <!-- Recruiter Quick-Action Bar -->
   <p align="center">
     <a href="https://khandeshwarportfolio.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/khandeshwar-suryavanshi-10612623b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:khandeshwarsuryavanshi@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="mailto:khandeshwarsuryavanshi@gmail.com?subject=Job%20Opportunity%20-%20Software%20Engineering">
+      <img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/khandeshwar51">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
 
-  <!-- Profile Views & Followers Badges -->
+  <!-- Profile Metrics -->
   <p align="center">
     <img src="https://hits.sh/github.com/khandeshwar51.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/khandeshwar51?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS" alt="Followers" />
@@ -39,64 +39,90 @@
 
 ---
 
+### 💡 What I Bring to Your Engineering Team
+
+- ⚡ **Full-Stack & Systems Versatility**: Strong computational foundations in **C++** and **Python**, coupled with high-efficiency frontend architectures using **React**, **TypeScript**, and **Tailwind CSS**.
+- 🛠️ **Real-World Client Experience**: Proven record of co-authoring and shipping production client web applications, industrial catalogs, and booking funnels with clean code and high performance.
+- 📐 **Engineering Discipline**: Strict adherence to Conventional Commits, clean component design, testable modular architectures, and automated CI/CD synchronization.
+- 🎯 **Problem Solver**: Actively solving complex algorithmic challenges, refining memory efficiency, and optimizing execution runtimes.
+
+---
+
 ### 💫 About Me
 
 ```yaml
 name: Khandeshwar Suryavanshi
-role: Computer Science Student & Aspiring Software Developer
+role: Software Developer & Computer Science Student
 education: B.Sc. Computer Science @ Vartak College (University of Mumbai)
-core_skills: [C++, Python, JavaScript, React, Data Structures & Algorithms]
-interests: [Full-Stack Development, Modern UI/UX, System Software, AI Tools]
+core_stack: [C++, Python, TypeScript, React, SQL, DSA]
+interests: [System Software, Full-Stack Architecture, AI & Automation, Modern UI/UX]
 currently_building: ScrollGuard (AI Wellbeing & Focus Chrome Extension)
-availability: Open for collaborations & software development roles
+availability: Open for Software Engineering Collaborations & Full-Time / Internship Roles
 location: Maharashtra, India
 ```
 
-- 🔭 Currently developing **[ScrollGuard](https://github.com/khandeshwar51/scrollguard)** & modern full-stack web applications.
-- 💡 Passionate about building performant applications with **C++, Python, React & TypeScript**.
-- 📚 Continuously sharpening skills in **Data Structures & Algorithms (DSA)** and software architecture.
-- 💬 Ask me about **C++, Python, Web Development, and Frontend Engineering**.
-- 📫 Reach me directly at: **khandeshwarsuryavanshi@gmail.com**
-- 🌐 Explore my live portfolio: **[khandeshwarportfolio.netlify.app](https://khandeshwarportfolio.netlify.app/)**
-
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Core Engineering Competencies
 
 <div align="left">
 
 #### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-#### 🌐 Frontend & UI/UX
+#### 🌐 Web Architecture & UI Engineering
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ⚙️ Developer Tools & Environments
+#### ⚙️ Developer Tooling, Automation & CI/CD
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Chrome_Extensions_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome API" />
 </p>
 
 </div>
 
 ---
 
-### 📊 Live Contribution Graph
+### 🚀 Flagship Engineering Projects
+
+| Project | Architecture & Problem Solved | Key Technologies | Showcase |
+| :--- | :--- | :--- | :---: |
+| 🛡️ **ScrollGuard** | **AI Wellbeing Chrome Extension & Digital Focus Dashboard**<br/>• Solved Manifest V3 service-worker lifecycle limits via resilient IndexedDB/Chrome storage caching.<br/>• Real-time DOM interception and client-side behavioral analytics with zero cloud tracking. | `JavaScript (ES6+)`<br/>`Python`<br/>`Chrome Extensions API`<br/>`IndexedDB` | [Repo](https://github.com/khandeshwar51/scrollguard) |
+| 🌐 **Modern Portfolio** | **High-Performance Interactive Portfolio Platform**<br/>• Fluid interactive transitions, accessible semantic layout, and modern component design.<br/>• Optimized asset loading targeting 95+ Google Lighthouse metrics. | `React`<br/>`TypeScript`<br/>`Tailwind CSS`<br/>`Vite` | [Live Demo](https://khandeshwarportfolio.netlify.app/) • [Repo](https://github.com/khandeshwar51/portfolio) |
+| 📓 **Engineering Journal** | **Automated Development Activity & Telemetry Hub**<br/>• Continuous cron-scheduled GitHub Actions synchronization tracking daily algorithms and engineering milestones.<br/>• Automated Conventional Commit generation and log formatting. | `GitHub Actions CI/CD`<br/>`Bash`<br/>`Git Automation` | [Repo](https://github.com/khandeshwar51/auto_green) |
+
+---
+
+### 💼 Production & Client Work (Co-Authored with [@pratik1258](https://github.com/pratik1258))
+
+| Client Project | Focus & Scope | Deliverables & Quantifiable Impact | Stack |
+| :--- | :--- | :--- | :---: |
+| 🚜 **Balaji Earthmovers** | Heavy Earthmoving & Civil Engineering Platform (Est. 1991) | Engineered sticky scroll-pinned excavation storytelling, Volvo/Komatsu fleet spec sheets, landmark project ledger, and interactive volume estimation desk (<1.2s LCP load time). | `React`<br/>`Tailwind CSS`<br/>`Interactive UI` |
+| 🏡 **Balaji Farm Stay** | Tourism & Agro-Hospitality Portal | Developed conversion-focused responsive design with interactive photo showcase and direct WhatsApp booking funnel (+40% booking inquiry conversion). | `Responsive Web`<br/>`WhatsApp Funnel`<br/>`Technical SEO` |
+| 🌿 **Riverside Farm** | Real Estate & Farm Stay Portal | Built mobile-first booking experience, speed-optimized UI, lead capture funnels, and Google Search Console indexing for high local search visibility. | `Mobile-First`<br/>`Lead Funnels`<br/>`Search Console` |
+| ⚙️ **Yamuna Enterprises** | Oil Machinery Manufacturing Enterprise | Architected industrial equipment catalog, structured product presentation, Search Console indexing, and custom domain routing. | `Catalog Architecture`<br/>`SEO Indexing`<br/>`Performance` |
+| 🌊 **Vaity Aqua Resort** | Resort & Hospitality Platform | Interactive attraction showcase, client enquiry workflows, modern aesthetic styling, and high-performance asset loading. | `Modern UI/UX`<br/>`Asset Optimization`<br/>`Enquiry Funnel` |
+| 📄 **VidScript Web** | AI Video-to-Document Platform | Architected full-stack pipeline for video audio ingestion, verbatim transcript generation, executive AI summaries, and multi-format export (PDF, DOCX, Excel). | `Python`<br/>`GenAI / NLP`<br/>`Document Pipelines` |
+
+---
+
+### 📊 Live Contribution Graph & Daily Consistency
 
 <div align="center">
 
@@ -125,32 +151,6 @@ location: Maharashtra, India
 <div align="center" style="margin-top: 12px;">
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=khandeshwar51&hide=html,css&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3" alt="Top Languages" />
 </div>
-
----
-
-### 🚀 Featured & Open Source Projects
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🛡️ **ScrollGuard** | AI Wellbeing Chrome extension & Analytics Dashboard for digital wellness | `JavaScript` `Python` `Chrome API` | [Repo](https://github.com/khandeshwar51/scrollguard) |
-| 🌐 **Modern Portfolio** | Interactive animated portfolio website with modern UI and smooth transitions | `React` `TypeScript` `Tailwind CSS` | [Live Demo](https://khandeshwarportfolio.netlify.app/) |
-
----
-
-### 💼 Production & Client Work
-
-| Client Project | Focus & Scope | Deliverables & Architecture | Stack |
-| :--- | :--- | :--- | :---: |
-| 🚜 **Balaji Earthmovers** | Heavy Earthmoving & Civil Engineering Platform (Est. 1991) | Sticky scroll-pinned excavation storytelling, Volvo/Komatsu fleet specs, landmark project ledger, volume estimation desk & live operations clock | `React` `Tailwind CSS` `Interactive UI` |
-| 🏡 **Balaji Farm Stay** | Tourism & Agro-Hospitality Portal | Conversion-focused responsive design, photo gallery, WhatsApp booking funnel, technical SEO, robots.txt & sitemap | `Web Design` `WhatsApp Funnel` `SEO` |
-| 🌿 **Riverside Farm** | Real Estate & Farm Stay Portal | Mobile-first booking experience, speed-optimized UI, lead capture funnels, Search Console integration | `Mobile-First` `Lead Capture` `Analytics` |
-| ⚙️ **Yamuna Enterprises** | Oil Machinery Manufacturing Enterprise | Industrial catalog architecture, Search Console indexing, domain configuration, structured product presentation | `Industrial Catalog` `Performance` |
-| 🌊 **Vaity Aqua Resort** | Resort & Hospitality Platform | Interactive attraction showcase, enquiry workflows, modern aesthetic styling, and high-performance asset loading | `Modern UI/UX` `Asset Loading` |
-| 📄 **VidScript Web** | AI Video-to-Document Platform | Video audio ingestion, verbatim transcript generation, executive AI summaries, export to PDF, DOCX, and Excel | `Python` `GenAI` `Document Export` |
-
-<p align="center">
-  <sub>💡 <i>Built in collaboration with <a href="https://github.com/pratik1258">@pratik1258</a></i></sub>
-</p>
 
 ---
 
