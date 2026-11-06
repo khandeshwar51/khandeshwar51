@@ -118,22 +118,39 @@ location: Maharashtra, India
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=khandeshwar51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=khandeshwar51&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=khandeshwar51&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=khandeshwar51&theme=tokyonight&hide_border=true&background=0d1117&v=3" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 12px;">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=khandeshwar51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=khandeshwar51&hide=html,css&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=3" alt="Top Languages" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured & Open Source Projects
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | 🛡️ **ScrollGuard** | AI Wellbeing Chrome extension & Analytics Dashboard for digital wellness | `JavaScript` `Python` `Chrome API` | [Repo](https://github.com/khandeshwar51/scrollguard) |
 | 🌐 **Modern Portfolio** | Interactive animated portfolio website with modern UI and smooth transitions | `React` `TypeScript` `Tailwind CSS` | [Live Demo](https://khandeshwarportfolio.netlify.app/) |
+
+---
+
+### 💼 Production & Client Work
+
+| Client Project | Focus & Scope | Deliverables & Architecture | Stack |
+| :--- | :--- | :--- | :---: |
+| 🚜 **Balaji Earthmovers** | Heavy Earthmoving & Civil Engineering Platform (Est. 1991) | Sticky scroll-pinned excavation storytelling, Volvo/Komatsu fleet specs, landmark project ledger, volume estimation desk & live operations clock | `React` `Tailwind CSS` `Interactive UI` |
+| 🏡 **Balaji Farm Stay** | Tourism & Agro-Hospitality Portal | Conversion-focused responsive design, photo gallery, WhatsApp booking funnel, technical SEO, robots.txt & sitemap | `Web Design` `WhatsApp Funnel` `SEO` |
+| 🌿 **Riverside Farm** | Real Estate & Farm Stay Portal | Mobile-first booking experience, speed-optimized UI, lead capture funnels, Search Console integration | `Mobile-First` `Lead Capture` `Analytics` |
+| ⚙️ **Yamuna Enterprises** | Oil Machinery Manufacturing Enterprise | Industrial catalog architecture, Search Console indexing, domain configuration, structured product presentation | `Industrial Catalog` `Performance` |
+| 🌊 **Vaity Aqua Resort** | Resort & Hospitality Platform | Interactive attraction showcase, enquiry workflows, modern aesthetic styling, and high-performance asset loading | `Modern UI/UX` `Asset Loading` |
+| 📄 **VidScript Web** | AI Video-to-Document Platform | Video audio ingestion, verbatim transcript generation, executive AI summaries, export to PDF, DOCX, and Excel | `Python` `GenAI` `Document Export` |
+
+<p align="center">
+  <sub>💡 <i>Built in collaboration with <a href="https://github.com/pratik1258">@pratik1258</a></i></sub>
+</p>
 
 ---
 
