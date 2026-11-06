@@ -1,16 +1,24 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Khandeshwar%20Suryavanshi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Development%2C%20Problem%20Solving%20and%20Software%20Engineering&descSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=220&section=header&text=Khandeshwar%20Suryavanshi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%E2%80%A2%20Full-Stack%20Architecture%20%E2%80%A2%20High-Performance%20Engineering&descSize=19&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Khandeshwar;Full-Stack+Developer+%26+CS+Student;Open+Source+Contributor;AI+Software+%26+System+Development;Building+Innovative+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&multiline=false&width=750&height=40&lines=AI+Systems+Engineer+%26+Full-Stack+Architect;Building+Intelligent+Applications+%26+High-Throughput+Pipelines;Specializing+in+C%2B%2B%2C+Python%2C+React+%26+System+Design;Author+of+ScrollGuard+%7C+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
+  <!-- Executive Tagline -->
   <p align="center">
     🎓 <b>B.Sc. Computer Science @ Vartak College (University of Mumbai)</b><br/>
-    🚀 Passionate about High-Performance Software, Full-Stack Architecture & Production Engineering
+    ⚡ <b>Architecting Scalable AI Systems, High-Performance Software & Production Web Platforms</b>
+  </p>
+
+  <!-- Professional Status & Position Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_ROLES-00C7B7?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/FOCUS-AI_SYSTEMS_%26_FULL--STACK-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/LOCATION-MUMBAI%2C_INDIA-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
   <!-- Recruiter Quick-Action Bar -->
@@ -19,20 +27,14 @@
       <img src="https://img.shields.io/badge/Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/khandeshwar-suryavanshi-10612623b" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:khandeshwarsuryavanshi@gmail.com?subject=Job%20Opportunity%20-%20Software%20Engineering">
-      <img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/khandeshwar51">
-      <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub_Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-  </p>
-
-  <!-- Profile Metrics -->
-  <p align="center">
-    <img src="https://hits.sh/github.com/khandeshwar51.svg?style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/khandeshwar51?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS" alt="Followers" />
   </p>
 
 </div>
@@ -198,5 +200,5 @@ location: Maharashtra, India
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=100&section=footer" width="100%"/>
 </div>
