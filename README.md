@@ -45,7 +45,7 @@
 
 - 🤖 **AI System Design & Application Development**: Practical experience designing and shipping end-to-end AI-powered architectures—from video/audio ingestion and NLP transcription pipelines (**VidScript Web**) to client-side behavioral modeling, dopamine scoring heuristics, and real-time cognitive intervention engines (**ScrollGuard**).
 - ⚡ **Full-Stack & Systems Versatility**: Strong computational foundations in **C++** and **Python**, coupled with high-efficiency frontend architectures using **React**, **TypeScript**, and **Tailwind CSS**.
-- 🛠️ **Real-World Client Experience**: Proven record of co-authoring and shipping production client web applications, industrial catalogs, and booking funnels with clean code and high performance.
+- 🛠️ **Real-World Client Experience**: Proven record of architecting and shipping production client web applications, industrial catalogs, and booking funnels with clean code and high performance.
 - 📐 **Engineering Discipline**: Strict adherence to Conventional Commits, clean component design, testable modular architectures, and automated CI/CD synchronization.
 - 🎯 **Problem Solver**: Actively solving complex algorithmic challenges, refining memory efficiency, and optimizing execution runtimes.
 
@@ -164,10 +164,6 @@ location: Maharashtra, India
 | ⚙️ **Yamuna Enterprises**<br/><a href="https://github.com/pratik1258m/Yamuna_Enterprises" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> | Oil Machinery Manufacturing Enterprise | Architected industrial equipment catalog, structured product presentation, Search Console indexing, and custom domain routing. | `Catalog Architecture`<br/>`SEO Indexing`<br/>`Performance` |
 | 📄 **VidScript Web**<br/><img src="https://img.shields.io/badge/Private_Repo-333333?style=flat-square&logo=github&logoColor=white" alt="Private Repo"/> | AI Video-to-Document & Intelligent Transcription | Architected full-stack pipeline for video audio ingestion, verbatim transcript generation, executive AI summaries via Groq LLMs, and multi-format export (PDF, DOCX, Excel). | `Python`<br/>`GenAI / NLP`<br/>`Groq LLMs`<br/>`Document Pipelines` |
 | 🏠 **Real Estate Intelligence**<br/><a href="https://github.com/pratik1258m/realestate" target="_blank"><img src="https://img.shields.io/badge/Private_Repo-333333?style=flat-square&logo=github&logoColor=white" alt="Private Repo"/></a> | Automated Real Estate News Intelligence & Distribution Platform | Scrapes 500+ daily articles from 32 RSS feeds, Jaccard deduplication, Groq AI LLM summaries, daily 8 AM WhatsApp/Email broadcasts, and branded PDF reports. | `Python`<br/>`Groq AI`<br/>`Node.js`<br/>`WhatsApp API`<br/>`jsPDF` |
-
-<p align="center">
-  <sub>💡 <i>Co-Authored with <a href="https://github.com/pratik1258m">@pratik1258m</a></i></sub>
-</p>
 
 ---
 
