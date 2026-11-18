@@ -150,7 +150,6 @@ location: Maharashtra, India
 | :--- | :--- | :--- | :---: |
 | 🛡️ **ScrollGuard** | **AI Wellbeing Chrome Extension & Digital Focus Dashboard**<br/>• Solved Manifest V3 service-worker lifecycle limits via resilient IndexedDB/Chrome storage caching.<br/>• Real-time DOM interception and client-side behavioral analytics with zero cloud tracking. | `JavaScript (ES6+)`<br/>`Python`<br/>`Chrome Extensions API`<br/>`IndexedDB` | [Repo](https://github.com/khandeshwar51/scrollguard) |
 | 🌐 **Modern Portfolio** | **High-Performance Interactive Portfolio Platform & KS Thinking Agent**<br/>• Fluid interactive transitions, accessible semantic layout, and autonomous AI representative.<br/>• Optimized asset loading targeting 95+ Google Lighthouse metrics and live telemetry sync. | `React`<br/>`TypeScript`<br/>`Tailwind CSS`<br/>`Vite` | [Live Demo](https://khandeshwar51.netlify.app/) • [Repo](https://github.com/khandeshwar51/portfolio) |
-| 📓 **Engineering Journal** | **Automated Development Activity & Telemetry Hub**<br/>• Continuous cron-scheduled GitHub Actions synchronization tracking daily algorithms and engineering milestones.<br/>• Automated Conventional Commit generation and log formatting. | `GitHub Actions CI/CD`<br/>`Bash`<br/>`Git Automation` | [Repo](https://github.com/khandeshwar51/auto_green) |
 
 ---
 
